@@ -1,4 +1,4 @@
-https://amy-ss.github.io/AscentAcademy_AddressBook/
+https://amy-ss.github.io/AddressBook/
 
 Description:
 Serves as a platform to track all the contact information you need. Whether it’s a phone number, a
